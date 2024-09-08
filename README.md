@@ -14,7 +14,7 @@ Footer: Links to pages like About, Contact, and social media icons.
 - CSS3 
 
 How to Visit
- you can visit the website by going to the following link: 
+ you can visit the website by going to the following link: https://siddique-wd.github.io/Udemy-Clone/
 
 # Future Plans
 Add JavaScript for features like course filters, search, and user login.
