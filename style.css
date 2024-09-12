@@ -17,6 +17,9 @@ body{
          border-bottom: solid black 1px ;
          gap: 10px;
          align-items: center;
+         position: sticky;
+         top: 0%;
+         background-color: white;
 }
 
 .Navbar__1__title{
@@ -30,12 +33,14 @@ body{
               display: flex;
               gap: 10px;
               align-items: center;
+              
 }
 .Navbar__2 input {
 
     border: none;
     width: 100%;
     font-size: 15px;
+    background-color: transparent;
 }
 .Navbar__2 input:focus{
 
@@ -63,10 +68,23 @@ body{
                       padding: 10px;
                       border-radius: 30px;
 }
+.Sale-image{
 
+             position: relative;
+}
 .Sale-image img{
               
             width: 100%;
+}
+
+.Sale-image__offer{
+    width: 35%;
+    border: solid black 2px;
+    background-color: white;
+    padding: 2%;
+    position: absolute;
+    top: 10%;
+    left: 8%;
 }
 
 .Recommended{
